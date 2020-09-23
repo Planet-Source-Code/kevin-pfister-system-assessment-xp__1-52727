@@ -1,0 +1,27 @@
+Performance Test Results
+Math - Addition  ~  81.59
+Math - Subtraction  ~  79.1
+Math - Integer Division  ~  73.64
+Math - Integer Multiplication  ~  77.26
+Math - Floating Point Division  ~  74.39
+Math - Floating Point Multiplication  ~  76.42
+String - 20mb Buffer  ~  129.03
+String - 40mb Buffer  ~  102.56
+String - 60mb Buffer  ~  86.47
+String - 80mb Buffer  ~  104.86
+Graphics - PSet Test  ~  108.66
+Graphics - Point Test  ~  95.57
+Graphics - SetPixelV Test  ~  86.04
+Graphics - GetPixel Test  ~  74.22
+Graphics - BitBlt  ~  98.28
+Graphics - Transparency  ~  655.23
+Disc - Write Speed  ~  94.96
+Disc - Read Speed  ~  103.9
+Combined Test - Matrix  ~  64.58
+Combined Test - Trig Demo  ~  48.54
+General - 50,000 Factors Test  ~  56.82
+Controls - Text Box  ~  99.84
+Controls - List Box  ~  95.28
+Overall Maths Results  ~  77.07
+Overall Graphics Results  ~  186.33
+Overall Results  ~  111.62
